@@ -1,0 +1,4 @@
+1 Coffee,2.5
+2 Tea,1.5
+3 Sandwich,5.0
+4 Cake,3.0
